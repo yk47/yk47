@@ -43,11 +43,11 @@
 ### 🚨 Security Contributions
 
 - 🧩 **[CTI Dashboard](https://github.com/yk47/Elevate-Labs-Projects/tree/master/CTI-Dashboard)** – Cyber Threat Intelligence dashboard for real-time threat visualization  
-- 🧠 **[VAPT Projects](https://github.com/yk47/Elevate-Labs-Projects/tree/master/CTI-Dashboard)** – Assessed applications using OWASP Top 10 & ASVS 4.0.3 methodologies  
-- 🧮 **Log File Analyzer** – Detected intrusion attempts via Apache & SSH log parsing  
+- 🧠 **VAPT Projects** – Assessed applications using OWASP Top 10 & ASVS 4.0.3 methodologies  
+- 🧮 **[Log File Analyzer](https://github.com/yk47/Elevate-Labs-Projects/tree/master/Log-File-Analyzer-for-Intrusion-Detection)** – Detected intrusion attempts via Apache & SSH log parsing  
 - 🧱 **Access Control Projects** – Implemented file security and ACL-based permission systems in Linux  
 
-![CodeQL](https://github.com/github/codeql/workflows/CodeQL/badge.svg)
+
 ![Dependabot](https://img.shields.io/badge/Dependabot-Active-green)
 ![Open Source](https://img.shields.io/badge/Open--Source-Contributor-yellow)
 

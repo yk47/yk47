@@ -25,7 +25,7 @@
 
 | Offensive Tools | Defensive Tools | Forensics |
 |-----------------|----------------|------------|
-| ![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange?logo=burpsuite) | ![Wireshark](https://img.shields.io/badge/Wireshark-blue?logo=wireshark) | ![Autopsy](https://img.shields.io/badge/Autopsy-Forensics-blue) |
+| ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23ffb366?logo=burpsuite) | ![Wireshark](https://img.shields.io/badge/Wireshark-blue?logo=wireshark) | ![Autopsy](https://img.shields.io/badge/Autopsy-Forensics-blue) |
 | ![Metasploit](https://img.shields.io/badge/Metasploit-Framework-green) | ![Nmap](https://img.shields.io/badge/Nmap-grey?logo=nmap) | ![Volatility](https://img.shields.io/badge/Volatility-Memory_Analysis-orange) |
 | ![SQLmap](https://img.shields.io/badge/SQLmap-DB_Exploitation-red) | ![CodeQL](https://img.shields.io/badge/CodeQL-Security-blueviolet) | ![OSINT](https://img.shields.io/badge/OSINT-Research-yellow) |
 

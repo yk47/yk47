@@ -29,7 +29,7 @@
 |-----------------|----------------|------------------|
 | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23ffb366?logo=burpsuite) | ![Wireshark](https://img.shields.io/badge/Wireshark-blue?logo=wireshark) | ![Flutter](https://img.shields.io/badge/Flutter-Mobile_Apps-blue?logo=flutter) |
 | ![Metasploit](https://img.shields.io/badge/Metasploit-Framework-green) | ![Nmap](https://img.shields.io/badge/Nmap-grey?logo=nmap) | ![Python](https://img.shields.io/badge/Python-AI_Development-yellow?logo=python) |
-| ![SQLmap](https://img.shields.io/badge/SQLmap-DB_Exploitation-red) | ![CodeQL](https://img.shields.io/badge/CodeQL-Security-blueviolet) | ![LangChain](https://img.shields.io/badge/LangChain-AI_Agents-green) |
+| ![SQLmap](https://img.shields.io/badge/SQLmap-DB_Exploitation-red) | ![CodeQL](https://img.shields.io/badge/CodeQL-Security-blueviolet) | ![LangChain,LangGraph,RAG](https://img.shields.io/badge/LangChain-AI_Agents-green) |
 | ![Frida](https://img.shields.io/badge/Frida-Reverse_Engineering-orange) | ![OSINT](https://img.shields.io/badge/OSINT-Research-yellow) | ![HuggingFace](https://img.shields.io/badge/HuggingFace-LLMs-orange) |
 
 ---

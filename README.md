@@ -27,8 +27,7 @@
 
 | Offensive Tools | Defensive Tools | Development & AI |
 |-----------------|----------------|------------------|
-| ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23ffb366?logo=burpsuite) | ![Wireshark](https://img.shields.io/badge/Wireshark-blue?logo=wireshark) | 
-| ![Metasploit](https://img.shields.io/badge/Metasploit-Framework-green) | ![Nmap](https://img.shields.io/badge/Nmap-grey?logo=nmap) | ![Flutter](https://img.shields.io/badge/Flutter-Mobile_Apps-blue?logo=flutter)  |![OSINT](https://img.shields.io/badge/OSINT-Research-yellow) | ![Python](https://img.shields.io/badge/Python-AI_Development-yellow?logo=python) |
+| ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23ffb366?logo=burpsuite) | ![Wireshark](https://img.shields.io/badge/Wireshark-blue?logo=wireshark) | | ![Metasploit](https://img.shields.io/badge/Metasploit-Framework-green) | !![Firebase](https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=black) | ![Flutter](https://img.shields.io/badge/Flutter-Mobile_Apps-blue?logo=flutter)  |![OSINT](https://img.shields.io/badge/OSINT-Research-yellow) | ![Python](https://img.shields.io/badge/Python-AI_Development-yellow?logo=python) |
 | ![LangChain](https://img.shields.io/badge/LangChain-AI_Agents-green) |![LangGraph](https://img.shields.io/badge/LangChain-AI_Agents-green) |![RAG](https://img.shields.io/badge/LangChain-AI_Agents-green)  | ![HuggingFace](https://img.shields.io/badge/HuggingFace-LLMs-orange) |
 
 ---

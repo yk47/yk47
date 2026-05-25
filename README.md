@@ -46,7 +46,7 @@ Passionate about securing systems, uncovering vulnerabilities, building intellig
 
 ---
 
-### 🚨 Security & Development Contributions
+### 🏗️ Development Contributions
 
 - **CTI Dashboard** — Real-time Cyber Threat Intelligence visualization platform
 - **VAPT Projects** — Comprehensive Vulnerability Assessment & Penetration Testing using OWASP Top 10 & ASVS 4.0.3
@@ -72,7 +72,7 @@ Passionate about securing systems, uncovering vulnerabilities, building intellig
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash_Karnik-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yash-karnik-65b905195/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash_Karnik-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yk47/)
 [![GitHub](https://img.shields.io/badge/GitHub-yk47-181717?style=for-the-badge&logo=github)](https://github.com/yk47)
 [![Instagram](https://img.shields.io/badge/Instagram-@yk47-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/yk47)
 

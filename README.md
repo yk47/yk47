@@ -73,8 +73,10 @@ Passionate about securing systems, uncovering vulnerabilities, building intellig
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash_Karnik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yk47/)
-[![GitHub](https://img.shields.io/badge/GitHub-yk47-181717?style=for-the-badge&logo=github)](https://github.com/yk47)
-[![Instagram](https://img.shields.io/badge/Instagram-@yk47-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/yk47)
+
+[![GitHub](https://img.shields.io/badge/GitHub-yk47-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yk47)
+
+[![Instagram](https://img.shields.io/badge/Instagram-@yk47-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yk47)
 
 ---
 

@@ -26,14 +26,14 @@ Passionate about securing systems, uncovering vulnerabilities, building intellig
 
 ### ⚔️ My Arsenal
 
-| Offensive Tools                          | Defensive Tools                          | Development & AI                          |
-|------------------------------------------|------------------------------------------|-------------------------------------------|
-| ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF7F00?logo=burpsuite&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7?logo=wireshark&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B?logo=flutter&logoColor=white) |
-| ![Metasploit](https://img.shields.io/badge/Metasploit-%23FF4500?logo=metasploit&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?logo=firebase&logoColor=black) | ![Python](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white) |
-| ![OSINT](https://img.shields.io/badge/OSINT-%23FFD700?logo=googlescholar&logoColor=black) |                                          | ![LangChain](https://img.shields.io/badge/LangChain-%231F2937?logo=langchain&logoColor=white) |
-|                                          |                                          | ![LangGraph](https://img.shields.io/badge/LangGraph-%231F2937?logo=langchain&logoColor=white) |
-|                                          |                                          | ![RAG](https://img.shields.io/badge/RAG-%234F46E5?logo=langchain&logoColor=white) |
-|                                          |                                          | ![Hugging Face](https://img.shields.io/badge/Hugging_Face-%23FFD700?logo=huggingface&logoColor=black) |
+| Offensive Tools                          | Defensive Tools                          | Development & AI                          | Databases |
+|------------------------------------------|------------------------------------------|-------------------------------------------|-----------|
+| ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF7F00?logo=burpsuite&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7?logo=wireshark&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B?logo=flutter&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?logo=firebase&logoColor=black) |
+| ![Metasploit](https://img.shields.io/badge/Metasploit-%23FF4500?logo=metasploit&logoColor=white) |                                          | ![Python](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white) |           |
+| ![OSINT](https://img.shields.io/badge/OSINT-%23FFD700?logo=googlescholar&logoColor=black) |                                          | ![LangChain](https://img.shields.io/badge/LangChain-%231F2937?logo=langchain&logoColor=white) |           |
+|                                          |                                          | ![LangGraph](https://img.shields.io/badge/LangGraph-%231F2937?logo=langchain&logoColor=white) |           |
+|                                          |                                          | ![RAG](https://img.shields.io/badge/RAG-%234F46E5?logo=langchain&logoColor=white) |           |
+|                                          |                                          | ![Hugging Face](https://img.shields.io/badge/Hugging_Face-%23FFD700?logo=huggingface&logoColor=black) |           |
 
 ---
 
